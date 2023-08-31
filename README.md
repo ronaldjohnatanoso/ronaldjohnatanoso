@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald John</h1>
-<h3 align="center">An intermediate full-stack, AI, machine learning, game dev</h3>
+<h3 align="center">Interests: full-stack, AI, machine learning, game dev</h3>
 
 - 🔭 I’m currently working on **Procedural Everything Generation**
 
