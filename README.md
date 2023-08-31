@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Unity DOTS**
 
-- 📫 How to reach me **ronaldjohnatanoso@gmail.com**
-
-<h3 align="left">Connect with me: https://www.linkedin.com/in/ronald-john-atanoso-797b7b27b/ </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
