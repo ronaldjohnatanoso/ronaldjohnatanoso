@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ronald John</h1>
 <h3 align="center">An intermediate full-stack, AI, machine learning, game dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronaldjohnatanoso" alt="ronaldjohnatanoso" /></a> </p>
-
 - 🔭 I’m currently working on **Procedural Everything Generation**
 
 - 🌱 I’m currently learning **Unity DOTS**
+
+- 📫 How to reach me **ronaldjohnatanoso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
